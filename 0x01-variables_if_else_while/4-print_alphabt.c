@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* main function - prints all letters except q and e*/
+/**
+  * main - Prints all letters except q and e
+  *
+  * Return: Always (Success);
+*/
 int main(void)
 {
 	char c;

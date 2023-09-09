@@ -4,7 +4,8 @@
 
 /**
  * main function - Prints string according to value of the number
- 
+ *
+ * Return: Always (Success)
  */
 int main(void)
 {

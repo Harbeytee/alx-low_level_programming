@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* main function - prints the alphabet in reverse*/
+/**
+  * main - Prints the alphabet in reverse
+  *
+  * Return: Always (Success);
+*/
 int main(void)
 {
 	char c;

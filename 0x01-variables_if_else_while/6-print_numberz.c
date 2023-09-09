@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/*main function -prints single digit integers*/
+/**
+  * main - Prints single digit integers
+  *
+  * Return: Always (Success);
+*/
 int main(void)
 {
 	int n;

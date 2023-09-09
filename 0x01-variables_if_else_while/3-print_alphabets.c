@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* prints the alphabet in upper and lowercase*/
+/**
+ * main function - Prints alphabe in upper and lowercase
+ *
+ * Return: Always (Success)
+ */
 int main(void)
 {
 	char c;

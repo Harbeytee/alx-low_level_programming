@@ -2,7 +2,8 @@
 
 /**
  * main function - Prints the alphabet
- 
+ *
+ * Return: Always (Success)
  */
 int main(void)
 {

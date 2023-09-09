@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* main function- prins single digit numbers*/
+/**
+  * main - Prints single digit numbers
+  *
+  * Return: Always (Success);
+*/
 int main(void)
 {
 	char n;

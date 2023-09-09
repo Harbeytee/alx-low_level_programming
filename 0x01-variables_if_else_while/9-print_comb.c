@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/*main function - prints possible combinaton of single digit numbers*/
+/**
+  * main - Prints possible combinaton of single digit numbers
+  *
+  * Return: Always (Success);
+*/
 int main(void)
 {
 	int c;
