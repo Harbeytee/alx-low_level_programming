@@ -1,11 +1,14 @@
 #include <stdio.h>
 
+/* main function- prins single digit numbers*/
 int main(void)
 {
-	int n;
+	char n;
 
-	for (n = 0; c <= 9; c++)
-		printf(c);
+	for (n = '0'; n <= '9'; n++)
+	{
+		putchar(n);
+	}
 
 	putchar('\n');
 	

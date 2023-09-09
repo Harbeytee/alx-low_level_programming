@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/*main function - prints possible combinaton of single digit numbers*/
 int main(void)
 {
 	int c;

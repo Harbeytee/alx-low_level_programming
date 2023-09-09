@@ -1,11 +1,14 @@
 #include <stdio.h>
 
+/*main function -prints single digit integers*/
 int main(void)
 {
 	int n;
 
-	for (n = '0'; c <= '9'; c++)
-		putchar(c);
+	for (n = '0'; n <= '9'; n++)
+	{
+		putchar(n);
+	}
 
 	putchar('\n');
 	
